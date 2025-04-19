@@ -1,7 +1,7 @@
 Feature: Cadastro de Usuário
 Casos de teste para o cadastro de usuário
     
-    Scenario: Cadastro de usuário com sucesso
+    Scenario: Cadastro de usuário com sucesso 
         Given que eu não tenha um cadastro de usuário
         When eu estiver na pagina de cadastro de usuário
         And preencher o formulário com dados válidos
